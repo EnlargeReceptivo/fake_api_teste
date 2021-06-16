@@ -5,34 +5,35 @@
     "ativo": "true",
     "data": "2021-07-01"
   }, 
-  "reservas": {
+  {
     "cod_tarifario": "2719",
     "id_servico": "63",
     "ativo": "true",
     "data": "2021-07-02"
   }, 
-"reservas": {
+  {
   "cod_tarifario": "2720",
     "id_servico": "63",
     "ativo": "true",
     "data": "2021-07-03"
   }, 
-"reservas": {
+  {
   "cod_tarifario": "2721",
     "id_servico": "63",
     "ativo": "true",
     "data": "2021-07-03"
   }, 
-"reservas": {
+  {
   "cod_tarifario": "2722",
     "id_servico": "63",
     "ativo": "true",
     "data": "2021-07-04"
   }, 
-"reservas": {
+  {
     "cod_tarifario": "2723",
     "id_servico": "63",
     "ativo": "true",
     "data": "2021-07-05"
   }
+]
 }
