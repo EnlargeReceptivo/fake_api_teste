@@ -1,5 +1,5 @@
 {
-  "PUT": {
+  "Reserva": {
     "cod_tarifario": "int",
     "id_servico": "int",
     "ativo": "boolean",
