@@ -5,8 +5,8 @@
     "ativo": "true",
     "data": "2021-07-01"
   }, 
-  {
-  "cod_tarifario": "2719",
+  "reservas": {
+    "cod_tarifario": "2719",
     "id_servico": "63",
     "ativo": "true",
     "data": "2021-07-02"
