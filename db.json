@@ -1,5 +1,5 @@
 {
-  "reservas": {
+  "reservas": [{
     "cod_tarifario": "2718",
     "id_servico": "63",
     "ativo": "true",
